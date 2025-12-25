@@ -1,2 +1,3 @@
-print("Hello, world!")
-print("This is my first serious step into computer science.")
+name = input("What is your name? ")
+print("Hello,", name)
+print("This is my first step into computer science.")
